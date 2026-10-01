@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Christian Vázquez
 
-💻 **Web Developer** · ⚙️ **Automation** · 🤖 **AI, Big Data & Cloud**
+**Web Developer** · **Automation** · **AI, Big Data & Cloud**
 
 Developer from **Valencia, Spain 🇪🇸** passionate about technology, automation and building useful things.
 
